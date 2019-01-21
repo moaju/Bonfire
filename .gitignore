@@ -27,3 +27,5 @@ Thumbs.db
 *.dll
 *.lib
 *.sbr
+*.gitignore
+.metadata/**
