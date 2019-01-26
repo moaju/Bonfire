@@ -1,2 +1,0 @@
-# Bonfire
-SQL Developer Project
