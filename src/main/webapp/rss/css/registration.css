@@ -1,0 +1,66 @@
+.container{
+    width: 1000px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -500px;
+    margin-top: -200px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+#login{
+     background: #E4E4E4;
+     color: white;
+     border: 0px;
+     border-radius: 10px;
+     position: absolute;
+     top: 30px;
+     right: 30px;
+     padding: 15px;
+}
+.wrapper{
+    flex-basis: 50%;
+    height: 400px;
+    padding: 0 40px;
+}
+.bd_right {
+    border-right: 3px solid rgba(112,112,112,0.5);
+}
+.signup *{
+    padding : 10px; 
+    width: 100%;
+}
+.signup_sns *{
+	padding: 10px;
+	width: 100%;
+}
+img{
+	height: 65px;
+}
+.btn{
+    color: white;
+    height: 41.8px;
+}
+.btn_point {
+    background: #0A78C1;   
+ }
+ h1{
+     font-size:30px;
+     text-align: center;
+ }
+ .btn_google{
+     background: #EB4F4D;
+    
+ }
+ .btn_line{
+     background:#00D201;
+ 
+ }
+ .btn_kakao{
+     background: #FFDE00;
+  
+ }
