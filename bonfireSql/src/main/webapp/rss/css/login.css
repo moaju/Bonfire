@@ -1,0 +1,48 @@
+
+ #login_wrapper{
+       background: #F5F5F5;
+       width: 580px;
+       height: 280px;
+       position: absolute;
+       top : 50%;
+       left : 50%;
+       margin-left: -290px;
+       margin-top: -140px;
+       padding : 10px 25px;
+       text-align: center;
+ }
+ h1{
+ 	font-size: 30px;
+ 	line-height: 50px;
+ 	font-family: Viga_Regular;
+ }
+ form {
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     height: 100%;
+     width: 100%;
+ }
+ form *{
+     flex:1;
+     width: 100%;
+ }
+ input{
+     padding: 15px;
+ }
+ .btn_point {
+       background: #0A78C1;
+       font-size: 20px;
+	   height : 55px;
+	    color: white;
+ }
+ #signUp{
+     background: #E4E4E4;
+     color: white;
+     border: 0px;
+     border-radius: 10px;
+     position: absolute;
+     top: 30px;
+     right: 30px;
+ }
